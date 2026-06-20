@@ -1,6 +1,0 @@
-Open this URL in your browser to authorize Figma:
-
-https://www.figma.com/oauth/mcp?response_type=code&client_id=IgWXFVFyrBmgLV2vpsEr3A&code_challenge=dpIVqAQIOCqgH4kVPioa0QCvOCw7IbyK-90cnPk_i1o&code_challenge_method=S256&redirect_uri=http%3A%2F%2Flocalhost%3A41498%2Fcallback&state=qTEgIYuITbbYpl0qw4TyjXoTaBTgLLukpj51gH0qxGQ&scope=mcp%3Aconnect&resource=https%3A%2F%2Fmcp.figma.com%2Fmcp
-
-After authorizing, if the redirect page shows a connection error,
-paste the full URL from the browser address bar back into the chat.

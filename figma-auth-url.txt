@@ -1,0 +1,1 @@
+https://www.figma.com/oauth/mcp?response_type=code&client_id=7OA3T1caBdr2sSKCObaA1S&code_challenge=xLdC1kGu6HH-lhJuDIG_HNeZU1EO5oo8JeEKhhLe8gk&code_challenge_method=S256&redirect_uri=http%3A%2F%2Flocalhost%3A47703%2Fcallback&state=PRkIAMTedNin2tE1GtwCbAvNF1okoNFngr3Civ0-AFQ&scope=mcp%3Aconnect&resource=https%3A%2F%2Fmcp.figma.com%2Fmcp
